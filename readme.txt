@@ -15,12 +15,11 @@ This project demonstrates linear regression using the gradient descent method. T
 - **Libraries Used:** `numpy`, `pandas`, `matplotlib`
 - **Data:** The dataset consists of three columns: `Price` (target), `House Size`, and `Room Number` (features).
 
-## Metrics and Visuals
-
-Metrics such as cost function values and Mean Squared Error (MSE) are illustrated by graphs included in the visuals, which are plotted during the execution of the script.
-
 ## How to Use
 
 1. **Download the `.py` file** from this repository.
 2. **Run the file** in your Python environment or **copy the code** into your own script.
 
+## Metrics and Visuals
+
+Metrics such as cost function values and Mean Squared Error (MSE) are illustrated by graphs included in the visuals, which are plotted during the execution of the script.
